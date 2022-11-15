@@ -1,4 +1,5 @@
-# AI & Blockchain Final Project
+# AI & Blockchain Final Project 
+DEPRECARED: we would no longer update this repo, and the project has been moved to https://github.com/AI-and-Blockchain/F22_Federated_Learning_With_Flexible_Labels
 
 A Decentralized AI Architecture for Training an Ensemble Model With Flexible Labels
 
